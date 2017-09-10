@@ -1,0 +1,17 @@
+learn4keras: a toolkit for keras research pipeline and some utilities for keras.
+
+
+
+[TODO LIST FOR UTILITIES]
+()multi-gpu based on tensorflow
+()visualization based on tensorboard
+()tensorflow queue API for keras
+()grid search and beyasian hyperparameters optimization
+
+
+
+[TODO LIST FOR PIPELINE]
+()data provider
+()model design
+()training supervision
+()model validation
